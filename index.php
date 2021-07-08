@@ -14,7 +14,7 @@
      <div class="card-top">
          <img class="imglogin" src="img/killua.jfif" alt="">
           <h2 class="title">Numero desban</h2>
-         <p>Emails disponiveis:</p>
+         <p>Clique no botão abaixo para desbanir:</p>
         </div>
                <div class="card-group"></div></br>
             </form>
